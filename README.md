@@ -1,5 +1,5 @@
 # 💫 Hi i'm Safinez 
-🌐 As a data science apprentice, I strive to unravel the mysteries of complex data sets and extract valuable knowledge from them.
+🌐 As a data scientist apprentice, I strive to unravel the mysteries of complex data sets and extract valuable knowledge from them.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/safinez-hlila) 
